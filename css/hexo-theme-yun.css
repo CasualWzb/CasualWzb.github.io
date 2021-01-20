@@ -720,7 +720,7 @@ body::before {
 }
 .wordcloud #wordcloud-canvas,
 .wordcloud #wordcloud-sidebar-canvas {
-  cursor: url("$cursor-pointer"), pointer;
+  cursor: pointer;
 }
 .wordcloud #wordbox {
   pointer-events: none;
